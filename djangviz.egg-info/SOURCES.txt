@@ -1,0 +1,10 @@
+README.md
+setup.py
+djangoviz/__init__.py
+djangoviz/main.py
+djangviz.egg-info/PKG-INFO
+djangviz.egg-info/SOURCES.txt
+djangviz.egg-info/dependency_links.txt
+djangviz.egg-info/entry_points.txt
+djangviz.egg-info/requires.txt
+djangviz.egg-info/top_level.txt
