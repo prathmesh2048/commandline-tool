@@ -1,1 +1,1 @@
-git remote add origin https://github.com/prathmesh2048/commandline-tool.git
+A simple CLI tool that can visualize the database schema of Django applications using the Atlas Cloud Playground
