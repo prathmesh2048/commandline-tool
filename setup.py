@@ -6,7 +6,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 # 3dE*.cd5sYw8bnh
 setup(
     name='DjangoViz',
-    version='1.0.0',
+    version='1.0.2',
     author='Prathmesh Nandurkar',
     author_email='prathmeshnandurkar123@gmail.com',
     url='https://github.com/prathmesh2048/commandline-tool',

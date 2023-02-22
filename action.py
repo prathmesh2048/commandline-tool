@@ -9,7 +9,7 @@ from django.db.backends.base.creation import BaseDatabaseCreation
 @click.group()
 def cli():
     pass
-
+# twine upload --repository-url https://upload.pypi.org/legacy/ -u prathmesh2048 -p prathmesh#2048 --skip-existing --verbose dist/*
 
 @cli.command()
 @click.option('-n', '--name', type=str, help='Name to greet', default='World')
@@ -31,6 +31,7 @@ def model_to_sql(model_path, database):
     # Load the model from the given path
     try:
         app_label, model_name = model_path.split('.')
+        click.echo(f"app_label and model_name are '{app_label, model_name}'")
         model = django.apps.apps.get_model(app_label, model_name)
     except (ImportError, ValueError, LookupError):
         click.echo(f"Could not load model from path '{model_path}'")
