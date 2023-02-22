@@ -5,7 +5,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = fh.read()
 # 3dE*.cd5sYw8bnh
 setup(
-    name='djangoviz',
+    name='DjangoViz',
     version='1.0.0',
     author='Prathmesh Nandurkar',
     author_email='prathmeshnandurkar123@gmail.com',

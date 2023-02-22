@@ -1,11 +1,11 @@
 README.md
 action.py
 setup.py
+DjangoViz.egg-info/PKG-INFO
+DjangoViz.egg-info/SOURCES.txt
+DjangoViz.egg-info/dependency_links.txt
+DjangoViz.egg-info/entry_points.txt
+DjangoViz.egg-info/requires.txt
+DjangoViz.egg-info/top_level.txt
 djangoviz/__init__.py
 djangoviz/__main__.py
-djangoviz.egg-info/PKG-INFO
-djangoviz.egg-info/SOURCES.txt
-djangoviz.egg-info/dependency_links.txt
-djangoviz.egg-info/entry_points.txt
-djangoviz.egg-info/requires.txt
-djangoviz.egg-info/top_level.txt
