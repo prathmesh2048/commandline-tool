@@ -1,0 +1,11 @@
+README.md
+action.py
+setup.py
+djangoviz/__init__.py
+djangoviz/__main__.py
+djangoviz.egg-info/PKG-INFO
+djangoviz.egg-info/SOURCES.txt
+djangoviz.egg-info/dependency_links.txt
+djangoviz.egg-info/entry_points.txt
+djangoviz.egg-info/requires.txt
+djangoviz.egg-info/top_level.txt
